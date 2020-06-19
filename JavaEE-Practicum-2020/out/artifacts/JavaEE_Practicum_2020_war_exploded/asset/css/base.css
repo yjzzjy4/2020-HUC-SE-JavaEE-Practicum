@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #e8ecef;
+}
+
+/*顶部容器*/
+#topContainer {
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    box-shadow: 0 5px 5px #c6c6c7;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+#headerLeft, #headerRight {
+    flex-basis: 10%;
+}
+
+#headerContainer {
+    flex-basis: 80%;
+}
+
+/*主内容区容器*/
+#contentContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    width: 100%;
+    position: relative;
+    top: 75px;
+    z-index: 5;
+}
+
+/*关闭按钮样式*/
+.closeButton {
+    width: 48px;
+    height: 48px;
+    background: transparent url("../img/icon/close-normal-icon.png") no-repeat center;
+    background-size: 16px 16px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.closeButton:hover {
+    background: #ff3110 url("../img/icon/close-hover-icon.png") no-repeat center;
+    background-size: 16px 16px;
+}

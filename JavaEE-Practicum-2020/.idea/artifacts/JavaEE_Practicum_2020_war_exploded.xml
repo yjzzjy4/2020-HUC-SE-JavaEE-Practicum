@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JavaEE-Practicum-2020:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JavaEE-Practicum-2020/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaEE-Practicum-2020" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Hibernate-5.4.16-Minimal" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.19" />
+          <element id="file-copy" path="$USER_HOME$/Env/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19.jar" />
+          <element id="library" level="project" name="fastjson 1.2.71" />
+          <element id="library" level="module" name="Struts-2.5.22-Minimal" module-name="JavaEE-Practicum-2020" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

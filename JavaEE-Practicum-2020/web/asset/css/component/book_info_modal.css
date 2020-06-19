@@ -1,0 +1,149 @@
+/*Modal窗体样式*/
+#bookInfoModal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 50;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+#bookInfoModal #modalContainer {
+    width: 50%;
+    height: 80vh;
+    margin: 0 auto;
+    padding: 50px 50px 0 50px;
+    background-color: #fff;
+    border: 1px #ff4f4f solid;
+    border-radius: 5px;
+    position: relative;
+    top: 75px;
+    opacity: 1;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+#closeBookInfo {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#bookInfoContainer {
+    width: 100%;
+    overflow: scroll;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#bookInfoContainer::-webkit-scrollbar {
+    width: 0;
+}
+
+/*左边栏样式*/
+#leftSide {
+    flex-basis: 30%;
+    margin-right: 15px;
+}
+
+#leftSide img {
+    width: 250px;
+}
+
+/*右边栏样式*/
+#rightSide {
+    width: 100%;
+    flex-basis: 70%;
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+#rightSide .row {
+    margin-bottom: 15px;
+}
+
+#rightSide #row0 {
+    flex-basis: 10%;
+}
+
+#rightSide #row0 #titleWrapper {
+    font-size: 20px;
+}
+
+#rightSide #row1 {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#rightSide #row1 #price {
+    font-size: 20px;
+    color: #fe272e;
+    margin-right: 20px;
+}
+
+#rightSide #row0 div, #rightSide #row2 div {
+    margin: 10px 0;
+}
+
+#rightSide #row3 {
+    flex-basis: 50%;
+}
+
+#rightSide #row3 p {
+    margin: 0;
+}
+
+/*按钮样式*/
+#rightSide #row4 {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+#addToCart {
+    height: 46px;
+    flex-basis: 40%;
+    padding: 0;
+    border: 1px solid transparent;
+    border-radius: 50px;
+    outline: none;
+    font-size: 20px;
+    color: #fff;
+    background-image: linear-gradient(to right, #df5feb, #bc2beb);
+}
+
+#addToCart:hover {
+    background-image: linear-gradient(to right, #bc2beb, #df5feb);
+}
+
+#payNow {
+    height: 46px;
+    flex-basis: 40%;
+    padding: 0;
+    border: 1px solid transparent;
+    border-radius: 50px;
+    outline: none;
+    font-size: 20px;
+    color: #fff;
+    background-image: linear-gradient(to right, #ff5a77, #ff031d);
+}
+
+#payNow:hover {
+    background-image: linear-gradient(to right, #ff031d, #ff5a77);
+}

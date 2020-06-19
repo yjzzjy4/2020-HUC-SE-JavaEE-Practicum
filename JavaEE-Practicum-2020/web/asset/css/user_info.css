@@ -1,0 +1,59 @@
+#mainFrame {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+}
+
+#mainContainer {
+    flex-basis: 100%;
+    background-color: #f8f8f8;
+    position: relative;
+    top: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    margin: 0 auto;
+}
+
+#userAvatar {
+    flex-basis: 20%;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0 20px;
+}
+
+#userAvatar img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    margin: 20px 0;
+}
+
+#userInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+#userInfo div {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#userInfo .key, #uploadUserAvatar {
+    margin-right: 20px;
+}
+
+/*#validateBoxContainer {*/
+/*    flex-basis: 40%;*/
+/*}*/
+
+/*#validateBoxContainer .validateBox {*/
+/*    background-color: #f8f8f8;*/
+/*}*/
+
+

@@ -1,0 +1,12 @@
+body {
+    position: relative;
+    background: url("../img/background/ps-bg-image.jpeg") repeat-y center;
+    margin: 0 0;
+}
+
+#validateBoxContainer {
+    width: 36%;
+    position: relative;
+    top: 10vh;
+    left: 32%;
+}

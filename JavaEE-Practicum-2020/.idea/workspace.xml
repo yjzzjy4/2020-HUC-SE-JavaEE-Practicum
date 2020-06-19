@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaEE-Practicum-2020:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e98716d2-b4aa-43d9-8e96-1ad5fccab296" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1dJKiuYFGfmTmoJyolWaZbuIKt7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Env/struts-2.5.22-min/lib" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.18999219" />
+    <property name="project.structure.side.proportion" value="0.41505793" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/asset/js" />
+      <recent name="$PROJECT_DIR$/web/asset/js/component" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/asset/img/icon" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.33" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.33" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JavaEE-Practicum-2020:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JavaEE_Practicum_2020_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JavaEE-Practicum-2020" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="36077" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavaEE-Practicum-2020:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.18856515" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e98716d2-b4aa-43d9-8e96-1ad5fccab296" name="Default Changelist" comment="" />
+      <created>1592137886779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592137886779</updated>
+      <workItem from="1592137889988" duration="6000" />
+      <workItem from="1592137914780" duration="1430000" />
+      <workItem from="1592180157985" duration="11754000" />
+      <workItem from="1592199956923" duration="15723000" />
+      <workItem from="1592221663191" duration="161496000" />
+      <workItem from="1592528486939" duration="16392000" />
+      <workItem from="1592546380560" duration="4994000" />
+      <workItem from="1592553606761" duration="19144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2375" y="138" width="1000" height="837" key="#Assign_Data_Sources" timestamp="1592188240797">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2375" y="138" width="1000" height="837" key="#Assign_Data_Sources/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592188240797" />
+    <state x="2375" y="138" width="1137" height="837" key="#Project_Structure" timestamp="1592180325697">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2375" y="138" width="1137" height="837" key="#Project_Structure/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592180325697" />
+    <state x="2056" y="134" width="1156" height="778" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592199986037">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2056" y="134" width="1156" height="778" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592199986037" />
+    <state x="2641" y="169" width="468" height="775" key="#com.intellij.ide.util.MemberChooser" timestamp="1592494664423">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2641" y="169" width="468" height="775" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592494664423" />
+    <state x="1066" y="150" width="630" height="911" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1592560258636">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="1066" y="150" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592560258636" />
+    <state x="2986" y="118" width="630" height="911" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592222152012" />
+    <state x="2494" y="246" width="655" height="596" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1592187915198">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="574" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592187428650" />
+    <state x="2494" y="246" width="655" height="596" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592187915198" />
+    <state x="2461" y="192" width="720" height="703" key="DetectedRootsChooserDialog" timestamp="1592179849009">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2461" y="192" width="720" height="703" key="DetectedRootsChooserDialog/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592179849009" />
+    <state x="221" y="254" width="1122" height="636" key="FileChooserDialogImpl" timestamp="1592560244406">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="221" y="254" width="1122" height="636" key="FileChooserDialogImpl/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592560244406" />
+    <state x="2141" y="226" width="1132" height="636" key="FileChooserDialogImpl/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592222140774" />
+    <state width="1475" height="350" key="GridCell.Tab.0.bottom" timestamp="1592579349130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1475" height="350" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
+    <state width="1475" height="350" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
+    <state width="1475" height="350" key="GridCell.Tab.0.center" timestamp="1592579349130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1475" height="350" key="GridCell.Tab.0.center/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
+    <state width="1475" height="350" key="GridCell.Tab.0.center/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
+    <state width="1475" height="350" key="GridCell.Tab.0.left" timestamp="1592579349130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1475" height="350" key="GridCell.Tab.0.left/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
+    <state width="1475" height="350" key="GridCell.Tab.0.left/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
+    <state width="1475" height="350" key="GridCell.Tab.0.right" timestamp="1592579349130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1475" height="350" key="GridCell.Tab.0.right/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
+    <state width="1475" height="350" key="GridCell.Tab.0.right/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
+    <state width="1475" height="350" key="GridCell.Tab.1.bottom" timestamp="1592579349130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1475" height="350" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
+    <state width="1475" height="350" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
+    <state width="1475" height="350" key="GridCell.Tab.1.center" timestamp="1592579349130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1475" height="350" key="GridCell.Tab.1.center/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
+    <state width="1475" height="350" key="GridCell.Tab.1.center/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
+    <state width="1475" height="350" key="GridCell.Tab.1.left" timestamp="1592579349130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1475" height="350" key="GridCell.Tab.1.left/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
+    <state width="1475" height="350" key="GridCell.Tab.1.left/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
+    <state width="1475" height="350" key="GridCell.Tab.1.right" timestamp="1592579349130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1475" height="350" key="GridCell.Tab.1.right/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
+    <state width="1475" height="350" key="GridCell.Tab.1.right/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
+    <state width="1475" height="350" key="GridCell.Tab.2.bottom" timestamp="1592579349130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1475" height="350" key="GridCell.Tab.2.bottom/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
+    <state width="1475" height="350" key="GridCell.Tab.2.bottom/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
+    <state width="1475" height="350" key="GridCell.Tab.2.center" timestamp="1592579349130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1475" height="350" key="GridCell.Tab.2.center/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
+    <state width="1475" height="350" key="GridCell.Tab.2.center/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
+    <state width="1475" height="350" key="GridCell.Tab.2.left" timestamp="1592579349130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1475" height="350" key="GridCell.Tab.2.left/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
+    <state width="1475" height="350" key="GridCell.Tab.2.left/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
+    <state width="1475" height="350" key="GridCell.Tab.2.right" timestamp="1592579349130">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1475" height="350" key="GridCell.Tab.2.right/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
+    <state width="1475" height="350" key="GridCell.Tab.2.right/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
+    <state x="195" y="36" width="1280" height="1042" key="SettingsEditor" timestamp="1592560616044">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="195" y="36" width="1280" height="1042" key="SettingsEditor/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592560616044" />
+    <state x="2115" y="116" width="1423" height="858" key="SettingsEditor/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592222180472" />
+    <state x="2418" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1592553606610">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2418" y="347" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592553606610" />
+    <state x="469" y="36" width="1441" height="691" maximized="true" key="dock-window-1" timestamp="1592546441551">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="469" y="36" width="1441" height="691" maximized="true" key="dock-window-1/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592546441551" />
+    <state x="115" y="36" width="1457" height="980" maximized="true" key="dock-window-2" timestamp="1592465137507">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="115" y="36" width="1457" height="980" maximized="true" key="dock-window-2/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592465137507" />
+    <state x="288" y="36" width="1457" height="980" maximized="true" key="dock-window-3" timestamp="1592528511575">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="288" y="36" width="1457" height="980" maximized="true" key="dock-window-3/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592528511575" />
+    <state x="61" y="131" width="1801" height="914" key="find.popup" timestamp="1592573601020">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="61" y="131" width="1801" height="914" key="find.popup/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592573601020" />
+    <state x="61" y="131" width="1801" height="914" key="find.popup/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592544660686" />
+    <state x="2442" y="45" width="874" height="1034" key="search.everywhere.popup" timestamp="1592453828095">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2442" y="45" width="874" height="1034" key="search.everywhere.popup/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592453828095" />
+    <state x="2371" y="145" width="1135" height="821" key="struts2 file set editor" timestamp="1592180322985">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2371" y="145" width="1135" height="821" key="struts2 file set editor/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592180322985" />
+  </component>
+</project>

@@ -1,0 +1,92 @@
+#pageDivider {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#pageButtons {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+#pageButtons li {
+    display: block;
+    padding: 0;
+    margin: 10px;
+    background-color: #e7ebee;
+    color: #99a1a7;
+    cursor: pointer;
+}
+
+#pageButtons li:hover {
+    background-color: #bdc3c7;
+    color: #fff;
+}
+
+/*清除a标签默认样式*/
+#pageButtons li a,
+#pageButtons li a:visited, #pageButtons li a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+#pageButtons li a {
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+/*当前页样式*/
+#pageButtons li.current {
+    background-color: #3498db;
+    color: #fff;
+}
+
+/*禁用页样式*/
+#pageButtons li.disabled, #pageButtons li.disabled:hover {
+    background-color: transparent;
+    color: #99a1a7;
+}
+
+#pageButtons li.disabled, #pageButtons li.disabled:hover,
+#pageButtons li.disabled a, #pageButtons li.disabled:hover a {
+    cursor: default;
+}
+
+/*输入跳转页面样式*/
+#pageInputContainer {
+    color: #99a1a7;
+}
+
+#pageInputContainer * {
+    margin: 5px;
+}
+
+#pageInputContainer input[type="text"] {
+    width: 50px;
+    height: auto;
+    padding: 5px 0;
+    border-radius: 0;
+    display: inline;
+    border: 1px solid #99a1a7;
+}
+
+#pageInputContainer button {
+    padding: 8px 16px;
+    border: 1px solid transparent;
+    background-color: #e7ebee;
+    color: #99a1a7;
+}
+
+#pageInputContainer button:hover {
+    background-color: #bdc3c7;
+    color: #fff;
+    cursor: pointer;
+}

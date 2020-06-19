@@ -1,0 +1,148 @@
+/*框架布局样式*/
+#headerLeft {
+    flex-basis: 20%;
+}
+
+#leftFrame {
+    flex-basis: 20%;
+    position: relative;
+}
+
+#mainFrame {
+    flex-basis: 80%;
+    position: relative;
+}
+
+/*图书分类列表样式*/
+#classListContainer {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding-bottom: 5px;
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+}
+
+#classListTitle {
+    text-align: center;
+    color: #fff;
+    background-color: #ff4f4f;
+    padding: 15px 0;
+    margin-bottom: 5px;
+}
+
+#classList {
+    list-style: none;
+    padding: 0 10%;
+    margin: 0;
+}
+
+#classList li {
+    margin: 10px 0;
+    position: relative;
+}
+
+#classList li::after {
+    content: "";
+    display: inline-block;
+    width: 100%;
+    border-bottom: 1px  #c6c6c7 solid;
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+}
+
+#classList li:nth-last-child(1)::after {
+    border: none;
+}
+
+#classList li a {
+    color: #ff4f4f;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+}
+
+#classList li a::after {
+    content: "";
+    width: 5px;
+    height: 5px;
+    border-top: 2px #c6c6c7 solid;
+    border-right: 2px #c6c6c7 solid;
+    transform: rotate(45deg);
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+}
+
+#classList li a:hover {
+    color: #e1251b;
+}
+
+#classList li a:hover::after {
+    border-color: #e1251b;
+}
+
+/*主显示区样式*/
+#mainContainer {
+    width: 98%;
+    margin: 0 auto;
+    background-color: #f8f8f8;
+    border: 1px #fff solid;
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+}
+
+#classNav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    width: 100%;
+    list-style: none;
+    padding: 5px 0 0;
+    margin: 0;
+    background-color: #fff;
+}
+
+#classNav li {
+    float: left;
+    color: #ff4f4f;
+    padding: 5px 5px 0;
+    border-bottom: 2px transparent solid;
+    position: relative;
+    cursor: default;
+}
+
+#classNav .on {
+    color: #e1251b;
+    border-bottom: 2px #ff4f4f solid;
+}
+
+/*书架布局*/
+.bookshelf.display {
+    display: flex;
+}
+
+.bookshelf.hidden {
+    display: none;
+}
+
+.bookContainer {
+    flex-basis: 18%;
+    border: 1px #fff solid;
+    align-items: center;
+    margin: 10px 10px;
+    background-color: #fff;
+}
+
+.bookContainer .cover {
+    width: 150px;
+}
+
+.bookContainer:hover {
+    box-shadow: 0 0 5px #5b616c;
+}
