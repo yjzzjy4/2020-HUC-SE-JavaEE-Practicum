@@ -21,7 +21,8 @@ function captchaOnBlur(event) {
             if(!result["err_code"]) {
                 captcha = result['captcha'];
             }
-        }, "json");
+        }, "json"
+    );
     if (captchaVal.toLowerCase() !== captcha.toLowerCase()) {
         setPromptInfo(captchaPrompt, "验证码输入有误, 请重新输入!", "error");
         return checkStatus[index] = false;
@@ -178,7 +179,8 @@ $().ready(function() {
                     else {
                         lastCheckInfo.css("display", "inline");
                     }
-                }, "json");
+                }, "json"
+            );
         }
         return false;
     });

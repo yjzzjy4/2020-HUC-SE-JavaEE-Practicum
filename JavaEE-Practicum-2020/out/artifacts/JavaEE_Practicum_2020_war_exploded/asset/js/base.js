@@ -205,7 +205,7 @@ function generatePageForm(url, hasParameter, page, totalPage) {
     return pageInputContainer.append(firstLabel, pageInput, lastLabel, pageButton);
 }
 
-// 组装分页栏按钮到分页栏容器里;
+// 组装分页栏按钮和输入组件到分页栏容器里;
 export function generatePageDivider(url, hasParameter, page, totalPage) {
     let pageDivider = $(`<div id="pageDivider"></div>`);
     pageDivider.append(generatePageButtons(url, hasParameter, page, totalPage));

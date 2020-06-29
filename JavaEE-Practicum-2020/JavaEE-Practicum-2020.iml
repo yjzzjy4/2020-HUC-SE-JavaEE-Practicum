@@ -38,35 +38,34 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library" exported="">
-      <library name="Hibernate-5.4.16-Minimal">
+      <library name="hibernate-5.4.16-minimal">
         <CLASSES>
-          <root url="file://$USER_HOME$/Env/hibernate-release-5.4.16.Final/lib/required" />
+          <root url="file://$MODULE_DIR$/lib/hibernate-5.4.16-minimal" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$USER_HOME$/Env/hibernate-release-5.4.16.Final/lib/required" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/hibernate-5.4.16-minimal" recursive="false" />
       </library>
     </orderEntry>
-    <orderEntry type="library" exported="" name="mysql-connector-java-8.0.19" level="project" />
     <orderEntry type="module-library" exported="">
       <library name="fastjson 1.2.71">
         <CLASSES>
-          <root url="file://$USER_HOME$/Env/fastjson" />
+          <root url="file://$MODULE_DIR$/lib/fastjson 1.2.71" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$USER_HOME$/Env/fastjson" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/fastjson 1.2.71" recursive="false" />
       </library>
     </orderEntry>
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.33" level="application_server_libraries" />
-    <orderEntry type="module-library">
-      <library name="Struts-2.5.22-Minimal">
+    <orderEntry type="module-library" exported="">
+      <library name="struts-2.5.22-minimal">
         <CLASSES>
-          <root url="file://$USER_HOME$/Env/struts-2.5.22-min/lib" />
+          <root url="file://$MODULE_DIR$/lib/struts-2.5.22-minimal" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$USER_HOME$/Env/struts-2.5.22-min/lib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/struts-2.5.22-minimal" recursive="false" />
       </library>
     </orderEntry>
   </component>

@@ -8,11 +8,8 @@
           <element id="module-output" name="JavaEE-Practicum-2020" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Hibernate-5.4.16-Minimal" />
-          <element id="library" level="project" name="mysql-connector-java-8.0.19" />
           <element id="file-copy" path="$USER_HOME$/Env/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19.jar" />
-          <element id="library" level="project" name="fastjson 1.2.71" />
-          <element id="library" level="module" name="Struts-2.5.22-Minimal" module-name="JavaEE-Practicum-2020" />
+          <element id="library" level="module" name="struts-2.5.22-minimal" module-name="JavaEE-Practicum-2020" />
         </element>
       </element>
     </root>

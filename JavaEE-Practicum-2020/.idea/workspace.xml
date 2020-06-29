@@ -5,8 +5,119 @@
       <artifact name="JavaEE-Practicum-2020:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e98716d2-b4aa-43d9-8e96-1ad5fccab296" name="Default Changelist" comment="" />
+    <list default="true" id="e98716d2-b4aa-43d9-8e96-1ad5fccab296" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JavaEE_Practicum_2020_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JavaEE_Practicum_2020_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c3e1f8d-004d-4b0d-9d8b-d4d736995e53/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8c3e1f8d-004d-4b0d-9d8b-d4d736995e53/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/914c6507-eff7-4400-86c3-923c622c9e7b/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/914c6507-eff7-4400-86c3-923c622c9e7b/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_16_Minimal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Struts_2_5_22_Minimal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/fastjson_1_2_71.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEE-Practicum-2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEE-Practicum-2020.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/FastInfoset-1.2.15.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/antlr-2.7.7.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/antlr-2.7.7.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/byte-buddy-1.10.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/byte-buddy-1.10.10.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/classmate-1.5.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/classmate-1.5.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-fileupload-1.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/struts-2.5.22-minimal/commons-fileupload-1.4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-fileupload-1.41.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-fileupload-1.42.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-fileupload-1.43.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-fileupload-1.44.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-io-2.6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/struts-2.5.22-minimal/commons-io-2.6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-io-2.61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-io-2.62.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-io-2.63.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-io-2.64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-lang3-3.8.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/struts-2.5.22-minimal/commons-lang3-3.8.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-lang3-3.8.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-lang3-3.8.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-lang3-3.8.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-lang3-3.8.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dom4j-2.1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/dom4j-2.1.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fastjson-1.2.71-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fastjson 1.2.71/fastjson-1.2.71-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fastjson-1.2.71.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fastjson 1.2.71/fastjson-1.2.71.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/freemarker-2.3.28.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/struts-2.5.22-minimal/freemarker-2.3.28.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/freemarker-2.3.281.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/freemarker-2.3.282.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/freemarker-2.3.283.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/freemarker-2.3.284.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hibernate-core-5.4.16.Final.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/hibernate-core-5.4.16.Final.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jandex-2.1.3.Final.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/jandex-2.1.3.Final.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javassist-3.20.0-GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/struts-2.5.22-minimal/javassist-3.20.0-GA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javassist-3.20.0-GA1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javassist-3.20.0-GA2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javassist-3.20.0-GA3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javassist-3.20.0-GA4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javassist-3.24.0-GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.activation-api-1.2.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.persistence-api-2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jaxb-api-2.3.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/log4j-api-2.12.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/struts-2.5.22-minimal/log4j-api-2.12.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/log4j-api-2.12.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/log4j-api-2.12.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/log4j-api-2.12.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/log4j-api-2.12.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.19.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ognl-3.1.26.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/struts-2.5.22-minimal/ognl-3.1.26.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ognl-3.1.261.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ognl-3.1.262.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ognl-3.1.263.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ognl-3.1.264.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stax-ex-1.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/stax-ex-1.8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/struts2-core-2.5.22.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/struts-2.5.22-minimal/struts2-core-2.5.22.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/struts2-core-2.5.221.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/struts2-core-2.5.222.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/struts2-core-2.5.223.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/struts2-core-2.5.224.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/txw2-2.3.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hibernate-5.4.16-minimal/txw2-2.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/classes/META-INF/JavaEE-Practicum-2020.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/classes/META-INF/JavaEE-Practicum-2020.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/classes/bean/jsonbean/PayingOrdersUploadBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/classes/bean/jsonbean/PayingOrdersUploadBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/classes/bean/jsonbean/ShoppingCartUploadBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/classes/bean/jsonbean/ShoppingCartUploadBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/classes/dao/IUserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/classes/dao/IUserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/classes/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/classes/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/img/default-cover/default-cover-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/img/default-cover/default-cover-0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/img/default-cover/default-cover-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/img/default-cover/default-cover-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/img/default-cover/default-cover-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/img/default-cover/default-cover-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/img/default-cover/default-cover-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/img/default-cover/default-cover-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/js/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/js/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/js/register_check.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/js/register_check.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/upload/book/O'Reilly：Head First Java（中文版 第2版 涵盖Java5.0）.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEE_Practicum_2020_war_exploded/asset/upload/book/O'Reilly：Head First Java（中文版 第2版 涵盖Java5.0）.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaEE-Practicum-2020/dao/IUserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaEE-Practicum-2020/dao/IUserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaEE-Practicum-2020/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaEE-Practicum-2020/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaEE-Practicum-2020/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaEE-Practicum-2020/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/asset/img/default-cover/default-cover-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/asset/img/default-cover/default-cover-0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/asset/img/default-cover/default-cover-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/asset/img/default-cover/default-cover-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/asset/img/default-cover/default-cover-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/asset/img/default-cover/default-cover-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/asset/img/default-cover/default-cover-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/asset/img/default-cover/default-cover-3.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +147,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -44,17 +158,18 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1dJKiuYFGfmTmoJyolWaZbuIKt7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Env/struts-2.5.22-min/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/struts-2.5.22-minimal" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -62,19 +177,22 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.18999219" />
     <property name="project.structure.side.proportion" value="0.41505793" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\System Redirected\Users\Administrator\Documents\My Documents\Code\Course\Java(EE)\JavaEE\Practicum\2020-HUC-SE-JavaEE-Practicum\JavaEE-Practicum-2020\lib\struts-2.5.22-minimal" />
+      <recent name="D:\System Redirected\Users\Administrator\Documents\My Documents\Code\Course\Java(EE)\JavaEE\Practicum\2020-HUC-SE-JavaEE-Practicum\JavaEE-Practicum-2020\lib\hibernate-5.4.16-minimal" />
+      <recent name="D:\System Redirected\Users\Administrator\Documents\My Documents\Code\Course\Java(EE)\JavaEE\Practicum\2020-HUC-SE-JavaEE-Practicum\JavaEE-Practicum-2020\lib\fastjson 1.2.71" />
+      <recent name="D:\System Redirected\Users\Administrator\Documents\My Documents\Code\Course\Java(EE)\JavaEE\Practicum\2020-HUC-SE-JavaEE-Practicum\JavaEE-Practicum-2020\lib\mysql-connector-java-8.0.19" />
+      <recent name="$PROJECT_DIR$/web/asset/img/icon" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web/asset/js" />
       <recent name="$PROJECT_DIR$/web/asset/js/component" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/web/asset/img/icon" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/web" />
     </key>
   </component>
   <component name="RunManager">
@@ -152,29 +270,6 @@
       </method>
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <option name="contentProportion" value="0.18856515" />
-          <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -193,21 +288,46 @@
       <workItem from="1592528486939" duration="16392000" />
       <workItem from="1592546380560" duration="4994000" />
       <workItem from="1592553606761" duration="19144000" />
+      <workItem from="1593424459840" duration="495000" />
+      <workItem from="1593424969265" duration="1988000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="2375" y="138" width="1000" height="837" key="#Assign_Data_Sources" timestamp="1592188240797">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2375" y="138" width="1000" height="837" key="#Assign_Data_Sources/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592188240797" />
+    <state x="552" y="298" width="653" height="274" key="#Notifications" timestamp="1593424982693">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="552" y="298" width="653" height="274" key="#Notifications/0.0.1368.872@0.0.1368.872" timestamp="1593424982693" />
     <state x="2375" y="138" width="1137" height="837" key="#Project_Structure" timestamp="1592180325697">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2375" y="138" width="1137" height="837" key="#Project_Structure/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592180325697" />
+    <state x="369" y="19" key="#Tomcat_9.0.33" timestamp="1593425404269">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="369" y="19" key="#Tomcat_9.0.33/0.0.1368.872@0.0.1368.872" timestamp="1593425404269" />
+    <state x="461" y="314" key="#Tomcat_Server" timestamp="1593425398730">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="461" y="314" key="#Tomcat_Server/0.0.1368.872@0.0.1368.872" timestamp="1593425398730" />
     <state x="2056" y="134" width="1156" height="778" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592199986037">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -216,9 +336,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2641" y="169" width="468" height="775" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592494664423" />
-    <state x="1066" y="150" width="630" height="911" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1592560258636">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state x="614" y="132" width="630" height="911" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1593426094243">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="614" y="132" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1368.872@0.0.1368.872" timestamp="1593426094243" />
     <state x="1066" y="150" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592560258636" />
     <state x="2986" y="118" width="630" height="911" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592222152012" />
     <state x="2494" y="246" width="655" height="596" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1592187915198">
@@ -226,84 +347,103 @@
     </state>
     <state x="574" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592187428650" />
     <state x="2494" y="246" width="655" height="596" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592187915198" />
-    <state x="2461" y="192" width="720" height="703" key="DetectedRootsChooserDialog" timestamp="1592179849009">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="385" y="155" width="720" height="703" key="DetectedRootsChooserDialog" timestamp="1593425520931">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="385" y="155" key="DetectedRootsChooserDialog/0.0.1368.872@0.0.1368.872" timestamp="1593425520931" />
     <state x="2461" y="192" width="720" height="703" key="DetectedRootsChooserDialog/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592179849009" />
-    <state x="221" y="254" width="1122" height="636" key="FileChooserDialogImpl" timestamp="1592560244406">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state x="428" y="180" width="1122" height="636" key="FileChooserDialogImpl" timestamp="1593426093513">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="428" y="180" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1593426093513" />
     <state x="221" y="254" width="1122" height="636" key="FileChooserDialogImpl/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592560244406" />
     <state x="2141" y="226" width="1132" height="636" key="FileChooserDialogImpl/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592222140774" />
-    <state width="1475" height="350" key="GridCell.Tab.0.bottom" timestamp="1592579349130">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1052" height="227" key="GridCell.Tab.0.bottom" timestamp="1593426380270">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="1052" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1593426380270" />
     <state width="1475" height="350" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
     <state width="1475" height="350" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
-    <state width="1475" height="350" key="GridCell.Tab.0.center" timestamp="1592579349130">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1052" height="227" key="GridCell.Tab.0.center" timestamp="1593426380270">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="1052" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1593426380270" />
     <state width="1475" height="350" key="GridCell.Tab.0.center/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
     <state width="1475" height="350" key="GridCell.Tab.0.center/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
-    <state width="1475" height="350" key="GridCell.Tab.0.left" timestamp="1592579349130">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1052" height="227" key="GridCell.Tab.0.left" timestamp="1593426380270">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="1052" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1593426380270" />
     <state width="1475" height="350" key="GridCell.Tab.0.left/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
     <state width="1475" height="350" key="GridCell.Tab.0.left/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
-    <state width="1475" height="350" key="GridCell.Tab.0.right" timestamp="1592579349130">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1052" height="227" key="GridCell.Tab.0.right" timestamp="1593426380270">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="1052" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1593426380270" />
     <state width="1475" height="350" key="GridCell.Tab.0.right/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
     <state width="1475" height="350" key="GridCell.Tab.0.right/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
-    <state width="1475" height="350" key="GridCell.Tab.1.bottom" timestamp="1592579349130">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1052" height="227" key="GridCell.Tab.1.bottom" timestamp="1593426380145">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="1052" height="227" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1593426380145" />
     <state width="1475" height="350" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
     <state width="1475" height="350" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
-    <state width="1475" height="350" key="GridCell.Tab.1.center" timestamp="1592579349130">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1052" height="227" key="GridCell.Tab.1.center" timestamp="1593426380145">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="1052" height="227" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1593426380145" />
     <state width="1475" height="350" key="GridCell.Tab.1.center/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
     <state width="1475" height="350" key="GridCell.Tab.1.center/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
-    <state width="1475" height="350" key="GridCell.Tab.1.left" timestamp="1592579349130">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1052" height="227" key="GridCell.Tab.1.left" timestamp="1593426380145">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="1052" height="227" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1593426380145" />
     <state width="1475" height="350" key="GridCell.Tab.1.left/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
     <state width="1475" height="350" key="GridCell.Tab.1.left/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
-    <state width="1475" height="350" key="GridCell.Tab.1.right" timestamp="1592579349130">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1052" height="227" key="GridCell.Tab.1.right" timestamp="1593426380145">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="1052" height="227" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1593426380145" />
     <state width="1475" height="350" key="GridCell.Tab.1.right/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
     <state width="1475" height="350" key="GridCell.Tab.1.right/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
-    <state width="1475" height="350" key="GridCell.Tab.2.bottom" timestamp="1592579349130">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1052" height="227" key="GridCell.Tab.2.bottom" timestamp="1593426380145">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="1052" height="227" key="GridCell.Tab.2.bottom/0.0.1368.872@0.0.1368.872" timestamp="1593426380145" />
     <state width="1475" height="350" key="GridCell.Tab.2.bottom/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
     <state width="1475" height="350" key="GridCell.Tab.2.bottom/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
-    <state width="1475" height="350" key="GridCell.Tab.2.center" timestamp="1592579349130">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1052" height="227" key="GridCell.Tab.2.center" timestamp="1593426380145">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="1052" height="227" key="GridCell.Tab.2.center/0.0.1368.872@0.0.1368.872" timestamp="1593426380145" />
     <state width="1475" height="350" key="GridCell.Tab.2.center/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
     <state width="1475" height="350" key="GridCell.Tab.2.center/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
-    <state width="1475" height="350" key="GridCell.Tab.2.left" timestamp="1592579349130">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1052" height="227" key="GridCell.Tab.2.left" timestamp="1593426380145">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="1052" height="227" key="GridCell.Tab.2.left/0.0.1368.872@0.0.1368.872" timestamp="1593426380145" />
     <state width="1475" height="350" key="GridCell.Tab.2.left/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
     <state width="1475" height="350" key="GridCell.Tab.2.left/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
-    <state width="1475" height="350" key="GridCell.Tab.2.right" timestamp="1592579349130">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1052" height="227" key="GridCell.Tab.2.right" timestamp="1593426380145">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="1052" height="227" key="GridCell.Tab.2.right/0.0.1368.872@0.0.1368.872" timestamp="1593426380145" />
     <state width="1475" height="350" key="GridCell.Tab.2.right/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592571190572" />
     <state width="1475" height="350" key="GridCell.Tab.2.right/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592579349130" />
-    <state x="195" y="36" width="1280" height="1042" key="SettingsEditor" timestamp="1592560616044">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state x="252" y="23" width="1280" height="1042" key="SettingsEditor" timestamp="1593426136231">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="252" y="23" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1593426136231" />
     <state x="195" y="36" width="1280" height="1042" key="SettingsEditor/1920.0.1920.1080/0.36.1920.1044@0.36.1920.1044" timestamp="1592560616044" />
     <state x="2115" y="116" width="1423" height="858" key="SettingsEditor/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592222180472" />
     <state x="2418" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1592553606610">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2418" y="347" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.36.1920.1044@1920.0.1920.1080" timestamp="1592553606610" />
+    <state x="482" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593426973914">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="482" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1593426973914" />
     <state x="469" y="36" width="1441" height="691" maximized="true" key="dock-window-1" timestamp="1592546441551">
       <screen x="0" y="36" width="1920" height="1044" />
     </state>
